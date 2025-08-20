@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This project outlines the design and implementation of a hybrid data asset management and disaster recovery system for Monosordos Productions, a multimedia company specializing in remote film production. The system was engineered to provide robust data security and business continuity while addressing the company's unique challenges, including a limited and predictable budget, high data traffic, and the need for security in remote regions.
+This project outlines the design and implementation of a hybrid data asset management and disaster recovery system for Monosordos Productions, a fictional multimedia company specializing in remote film production. The system was engineered to provide robust data security and business continuity while addressing the company's unique challenges, including a limited and predictable budget, high data traffic, and the need for security in remote regions.
 
 ### **Key Design and Security Features**
 
