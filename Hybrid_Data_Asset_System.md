@@ -2,7 +2,7 @@
 
 ### **Project Overview**
 
-This document outlines the design and implementation of a hybrid data asset security system for Monosordos Productions, a multimedia company specializing in films for the Deaf. The project's goal was to create a robust and cost-effective solution that addresses the company's unique needs, including a limited and predictable budget, high data traffic, and the need for security in remote locations. The implemented solution balances security, accessibility, and cost by leveraging both on-premises hardware and cloud services.
+This document outlines the design and implementation of a hybrid data asset security system for Monosordos Productions, a fictional multimedia company specializing in films for the Deaf. The project's goal was to create a robust and cost-effective solution that addresses the company's unique needs, including a limited and predictable budget, high data traffic, and the need for security in remote locations. The implemented solution balances security, accessibility, and cost by leveraging both on-premises hardware and cloud services.
 
 ### **System Architecture**
 
